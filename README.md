@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hmaeed Ur Rehman and I am Flutter Developer
+<h2 align="left">Hi 👋! My name is Hameed Ur Rehman and I am Flutter Developer
 
 ###
 
