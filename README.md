@@ -56,7 +56,7 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?Hameed-Ur-Rehman25=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hameed-Ur-Rehman25)](https://github.com/ryo-ma/github-profile-trophy)
 ###
 
 <div align="left">
