@@ -1,133 +1,149 @@
-<h1 align="center">Hi 👋, I'm Hameed Ur Rehman</h1>
+# Hi 👋, I'm Hameed Ur Rehman
 
-<h3 align="center">
-Flutter Developer | Full Stack Developer | AI Enthusiast
-</h3>
+### Flutter Developer • Full Stack Developer • AI Enthusiast
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Full+Stack+Developer;AI+Chatbot+Developer;Firebase+%7C+Node.js+%7C+MongoDB;Computer+Science+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Full+Stack+Developer;AI+Chatbot+Developer;Firebase+%7C+Node.js+%7C+MongoDB;Computer+Science+Student;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hameed-Ur-Rehman25&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Computer Science Student at Air University Islamabad
-
-📱 Flutter Developer with experience building scalable mobile applications
-
-🌐 Full Stack Developer using Node.js, Express.js & MongoDB
-
-🤖 Developed AI Chatbots using Gemini API
-
-🏆 Hackathon Winner at Bizztech
-
-💡 Passionate about Mobile Development, Artificial Intelligence and Startups
-
-🌱 Currently learning:
-- Advanced Backend Development
-- System Design
-- AI Agents & Automation
-- Cloud Technologies
+- 🎓 Computer Science Student at Air University, Islamabad
+- 📱 Flutter Developer specializing in cross-platform mobile applications
+- 🌐 Full Stack Developer with experience in Node.js, Express.js, MongoDB, and Firebase
+- 🤖 AI Enthusiast with experience integrating Gemini API and automation workflows
+- 🏆 Hackathon Winner at Bizztech
+- 💡 Passionate about building impactful software products and startups
+- 🚀 Open to Flutter, Full Stack, and Software Engineering opportunities
 
 ---
 
-## 🔭 Current Projects
+## 🔭 Currently Working On
 
-- 🎫 Ticket Booking Application
-- 🤝 Buyer-Centric Marketplace App
+- 🎫 Ticket Booking Platform
+- 🤝 Buyer-Centric Marketplace Application
 - 🤖 AI Job Application Automation System
-- 🚕 Ride Hailing Startup Platform
+- 🚕 Ride-Hailing Platform for Pakistan
 
 ---
 
-## 🛠️ Tech Stack
+## 🌱 Currently Learning
 
-### Mobile Development
+- System Design
+- Cloud Computing
+- AI Agents & Automation
+- Scalable Backend Architecture
+- DevOps Fundamentals
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio" />
-</p>
+---
 
-### Backend Development
+# 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-### Frontend Development
+### 📱 Mobile Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio" />
 </p>
 
-### Programming Languages
+### 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cs,java,python,javascript,dart" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
 </p>
 
-### Tools & Platforms
+### ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,figma,vscode,arduino" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,npm" />
 </p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+</p>
+
+### ☁️ Cloud & Backend Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,appwrite" />
+</p>
+
+### 🤖 AI & Automation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,js,java,python,c,cs" />
+</p>
+
+### 🎨 UI/UX Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
+</p>
+
+### ⚡ Exploring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,vercel" />
+</p>
+
+---
+
+## 🚀 Areas of Expertise
+
+- Flutter Mobile Development
+- Cross-Platform App Development
+- Firebase Authentication
+- Firestore Database
+- REST API Integration
+- State Management (Provider, Riverpod, Bloc)
+- Full Stack Development
+- Real-Time Applications
+- AI Chatbot Integration
+- Push Notifications
+- Payment Gateway Integration
+- Database Design
+- Software Architecture
 
 ---
 
 ## 🏆 Achievements
 
-🥇 Winner of Bizztech Hackathon
-
-📱 Built multiple production-ready Flutter applications
-
-🤖 Developed AI Chatbot Integrations
-
-🔥 Experienced in Firebase Authentication, Firestore & Cloud Storage
-
----
-
-## 📌 Featured Projects
-
-### 🚗 Buyer-Centric Marketplace
-
-A marketplace where buyers create requests and sellers compete through bidding.
-
-**Tech Stack:**
-Flutter • Firebase • Supabase
-
----
-
-### 🎫 Ticket Booking Platform
-
-Event creation, ticket purchasing, wallet integration and business dashboard.
-
-**Tech Stack:**
-Flutter • Node.js • MongoDB
-
----
-
-### 🤖 UniBot AI Assistant
-
-AI-powered chatbot developed using Gemini API.
-
-**Tech Stack:**
-C++ • Gemini API • RAD Studio
+- 🥇 Winner of Bizztech Hackathon
+- 📱 Developed Multiple Flutter Applications
+- 🤖 Built AI Chatbot Solutions
+- 🔥 Experience with Firebase Ecosystem
+- 🌐 Developed Full Stack Web Applications
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hameed-Ur-Rehman25&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hameed-Ur-Rehman25&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hameed-Ur-Rehman25&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hameed-Ur-Rehman25&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hameed-Ur-Rehman25&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hameed-Ur-Rehman25&theme=tokyonight" />
 </p>
 
 ---
@@ -135,7 +151,7 @@ C++ • Gemini API • RAD Studio
 ## 🏅 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Hameed-Ur-Rehman25&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hameed-Ur-Rehman25&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
@@ -143,29 +159,50 @@ C++ • Gemini API • RAD Studio
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hameed-Ur-Rehman25&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hameed-Ur-Rehman25&theme=tokyo-night" />
 </p>
+
+---
+
+## 📚 Certifications
+
+- Flutter Development
+- Git & GitHub
+- Firebase Development
+- Mobile Application Development
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Secure a Full Stack Developer Position
+- 📱 Publish Production Applications
+- 🤖 Build AI-Powered SaaS Products
+- 🌍 Contribute to Open Source
+- ☁️ Master Cloud Technologies
+
+---
+
+## 💻 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](YOUR_LEETCODE_LINK)
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/hameed-ur-rehman-b249b927a">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hameed%20Ur%20Rehman-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hameed-ur-rehman-b249b927a)
 
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Hameed--Ur--Rehman25-black?style=for-the-badge&logo=github)](https://github.com/Hameed-Ur-Rehman25)
 
 ---
 
 ## ⚡ Fun Fact
 
-I love building products that solve real-world problems using Flutter, AI, and Full-Stack technologies 🚀
+> I enjoy building mobile apps, AI-powered solutions, and startup-focused products that solve real-world problems.
+
+---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Hameed-Ur-Rehman25&label=Profile+Views&color=blue&style=flat" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hameed-Ur-Rehman25&theme=tokyonight" />
 </p>
