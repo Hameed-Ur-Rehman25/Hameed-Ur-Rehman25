@@ -1,9 +1,12 @@
-# Hi 👋, I'm Hameed Ur Rehman
+<!-- HERO SECTION -->
+<h1 align="center">Hi 👋, I'm Hameed Ur Rehman</h1>
 
-### Flutter Developer • Full Stack Developer • Mobile & Cloud Enthusiast
+<h3 align="center">
+Flutter Developer • Full Stack Developer • Mobile & Cloud Engineer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Full+Stack+Developer;Mobile+App+Engineer;iOS+%7C+Android+%7C+Web;Firebase+%7C+Supabase+%7C+Node.js;Computer+Science+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Full+Stack+Engineer;Mobile+App+Developer;iOS+%7C+Android+%7C+Web;Firebase+%7C+Supabase+%7C+Node.js" />
 </p>
 
 <p align="center">
@@ -12,140 +15,108 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Computer Science Student at Air University, Islamabad  
-- 📱 Flutter Developer specializing in cross-platform mobile apps  
-- 🍎 iOS Developer with Swift experience  
-- 🌐 Full Stack Developer (Node.js, Express.js, MongoDB)  
-- ☁️ Experienced with Firebase & Supabase backend systems  
-- 🤖 Built AI-powered assistants and automation-based applications  
-- 🏆 Hackathon Winner at Bizztech  
-- 💡 Passionate about startups, SaaS, and scalable mobile systems  
+I am a **Computer Science student and mobile-first developer** passionate about building scalable apps, modern backend systems, and AI-powered solutions.
 
----
-
-## 🔭 Currently Working On
-
-- 🎫 Ticket Booking Platform  
-- 🤝 Buyer-Centric Marketplace App  
-- 🤖 AI-Based Job Automation System  
-- 🚕 Ride-Hailing Platform for Pakistan  
+- 📱 Flutter Developer building production-ready mobile apps  
+- 🍎 iOS Developer using Swift  
+- 🌐 Full Stack Developer (Node.js, Express, MongoDB)  
+- ☁️ Experienced with Firebase & Supabase  
+- 🤖 Interested in automation & intelligent systems  
+- 🏆 Hackathon Winner (Bizztech)  
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 What I Do
 
-- System Design & Scalable Architecture  
-- Cloud-Native Applications  
-- Advanced Backend Development  
-- AI Agents & Automation Systems  
-- DevOps & Deployment Pipelines  
+### 📱 Mobile Development
+I build **high-performance cross-platform apps** using Flutter and native iOS tools.
+
+### 🌐 Full Stack Development
+I create **scalable backend systems & APIs** using Node.js and modern databases.
+
+### ☁️ Backend & Cloud
+I integrate apps with **Firebase, Supabase, and cloud services** for real-time functionality.
+
+### 🤖 Automation & AI Systems
+I build smart workflows and automation-based systems for productivity solutions.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## 📱 Mobile Development
-
+### 📱 Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,swift,androidstudio" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,swift,androidstudio" />
+</p>
+
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,npm" />
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres" />
+</p>
+
+### ☁️ Cloud Services
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,appwrite,aws" />
+</p>
+
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=dart,js,swift,java,python,c,cs" />
+</p>
+
+### 🔧 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,docker" />
 </p>
 
 ---
 
-## 🌐 Frontend Development
+## 📌 Featured Strengths
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
-</p>
-
----
-
-## ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,npm" />
-</p>
+- Cross-platform App Development  
+- REST API Design & Integration  
+- Firebase & Supabase Architecture  
+- Real-time Applications  
+- Authentication Systems  
+- State Management (Bloc / Provider / Riverpod)  
+- Scalable Backend Design  
+- UI/UX Implementation from Figma  
 
 ---
 
-## 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres" />
-</p>
-
----
-
-## ☁️ Backend Services & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,appwrite" />
-</p>
-
----
-
-## 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dart,js,swift,java,python,c,cs" />
-</p>
-
----
-
-## 🎨 UI/UX Design
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
----
-
-## 🔧 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,docker" />
-</p>
-
----
-
-## ⚡ Exploring
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel" />
-</p>
-
----
-
-## 🚀 Areas of Expertise
-
-- Flutter Mobile Development  
-- iOS Development (Swift)  
-- Cross-Platform App Development  
-- Firebase Authentication & Firestore  
-- Supabase Integration  
-- REST API Development  
-- State Management (Bloc, Provider, Riverpod)  
-- Full Stack Web Development  
-- Real-Time Applications  
-- Payment Integration Systems  
-- AI-Powered Application Logic  
-- Scalable Backend Architecture  
-
----
-
-## 🏆 Achievements
+## 🏆 Highlights
 
 - 🥇 Winner of Bizztech Hackathon  
-- 📱 Built multiple production-ready mobile apps  
-- 🌐 Developed full-stack applications using modern stacks  
-- ☁️ Experience with Firebase & Supabase ecosystems  
-- 🤖 Built intelligent automation-based systems  
+- 📱 Multiple Flutter Applications Delivered  
+- 🌐 Full Stack Projects with Real Users  
+- ☁️ Experience with Cloud Backend Systems  
+- 🤖 Built Automation-based Systems  
 
 ---
 
-## 📊 GitHub Statistics
+## 🎯 Current Focus
+
+- 🚀 Building scalable mobile applications  
+- ☁️ Mastering cloud architecture (Firebase + Supabase + AWS)  
+- 🤖 AI-powered automation systems  
+- 📱 Publishing production-ready apps  
+- 🌍 Contributing to open-source projects  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hameed-Ur-Rehman25&show_icons=true&theme=tokyonight" />
@@ -158,15 +129,7 @@
 
 ---
 
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hameed-Ur-Rehman25&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hameed-Ur-Rehman25&theme=tokyo-night" />
@@ -174,30 +137,22 @@
 
 ---
 
-## 🎯 2026 Goals
+## 🌐 Let’s Connect
 
-- 🚀 Land a Full Stack / Flutter Developer role  
-- 📱 Publish production-level mobile applications  
-- ☁️ Master cloud-native development (Firebase + Supabase + AWS)  
-- 🤖 Build scalable AI-powered SaaS products  
-- 🌍 Contribute to open-source projects  
+<p align="center">
+  <a href="https://linkedin.com/in/hameed-ur-rehman-b249b927a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 
----
-
-## 💻 Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](YOUR_LEETCODE_LINK)
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## ⚡ Closing Statement
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hameed%20Ur%20Rehman-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hameed-ur-rehman-b249b927a)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Hameed--Ur--Rehman25-black?style=for-the-badge&logo=github)](https://github.com/Hameed-Ur-Rehman25)
-
----
-
-## ⚡ Fun Fact
-
-> I enjoy building mobile-first products that solve real-world problems using Flutter, backend systems, and modern cloud technologies.
+<p align="center">
+Building modern mobile apps and scalable backend systems with a focus on real-world impact 🚀
+</p>
