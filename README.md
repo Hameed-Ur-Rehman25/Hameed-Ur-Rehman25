@@ -1,9 +1,9 @@
 # Hi 👋, I'm Hameed Ur Rehman
 
-### Flutter Developer • Full Stack Developer • AI Enthusiast
+### Flutter Developer • Full Stack Developer • Mobile & Cloud Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Full+Stack+Developer;AI+Chatbot+Developer;Firebase+%7C+Node.js+%7C+MongoDB;Computer+Science+Student;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Full+Stack+Developer;Mobile+App+Engineer;iOS+%7C+Android+%7C+Web;Firebase+%7C+Supabase+%7C+Node.js;Computer+Science+Student" />
 </p>
 
 <p align="center">
@@ -14,124 +14,134 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student at Air University, Islamabad
-- 📱 Flutter Developer specializing in cross-platform mobile applications
-- 🌐 Full Stack Developer with experience in Node.js, Express.js, MongoDB, and Firebase
-- 🤖 AI Enthusiast with experience integrating Gemini API and automation workflows
-- 🏆 Hackathon Winner at Bizztech
-- 💡 Passionate about building impactful software products and startups
-- 🚀 Open to Flutter, Full Stack, and Software Engineering opportunities
+- 🎓 Computer Science Student at Air University, Islamabad  
+- 📱 Flutter Developer specializing in cross-platform mobile apps  
+- 🍎 iOS Developer with Swift experience  
+- 🌐 Full Stack Developer (Node.js, Express.js, MongoDB)  
+- ☁️ Experienced with Firebase & Supabase backend systems  
+- 🤖 Built AI-powered assistants and automation-based applications  
+- 🏆 Hackathon Winner at Bizztech  
+- 💡 Passionate about startups, SaaS, and scalable mobile systems  
 
 ---
 
 ## 🔭 Currently Working On
 
-- 🎫 Ticket Booking Platform
-- 🤝 Buyer-Centric Marketplace Application
-- 🤖 AI Job Application Automation System
-- 🚕 Ride-Hailing Platform for Pakistan
+- 🎫 Ticket Booking Platform  
+- 🤝 Buyer-Centric Marketplace App  
+- 🤖 AI-Based Job Automation System  
+- 🚕 Ride-Hailing Platform for Pakistan  
 
 ---
 
 ## 🌱 Currently Learning
 
-- System Design
-- Cloud Computing
-- AI Agents & Automation
-- Scalable Backend Architecture
-- DevOps Fundamentals
+- System Design & Scalable Architecture  
+- Cloud-Native Applications  
+- Advanced Backend Development  
+- AI Agents & Automation Systems  
+- DevOps & Deployment Pipelines  
 
 ---
 
 # 🛠️ Tech Stack
 
-### 📱 Mobile Development
+## 📱 Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,swift,androidstudio" />
 </p>
 
-### 🌐 Frontend Development
+---
+
+## 🌐 Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
 </p>
 
-### ⚙️ Backend Development
+---
+
+## ⚙️ Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,npm" />
 </p>
 
-### 🗄️ Databases
+---
+
+## 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres" />
 </p>
 
-### ☁️ Cloud & Backend Services
+---
+
+## ☁️ Backend Services & Cloud
 
 <p>
   <img src="https://skillicons.dev/icons?i=firebase,supabase,appwrite" />
 </p>
 
-### 🤖 AI & Automation
+---
+
+## 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=dart,js,swift,java,python,c,cs" />
 </p>
 
-### 💻 Programming Languages
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=dart,js,java,python,c,cs" />
-</p>
-
-### 🎨 UI/UX Design
+## 🎨 UI/UX Design
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-### 🔧 Tools & Platforms
+---
+
+## 🔧 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,docker" />
 </p>
 
-### ⚡ Exploring
+---
+
+## ⚡ Exploring
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,vercel" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel" />
 </p>
 
 ---
 
 ## 🚀 Areas of Expertise
 
-- Flutter Mobile Development
-- Cross-Platform App Development
-- Firebase Authentication
-- Firestore Database
-- REST API Integration
-- State Management (Provider, Riverpod, Bloc)
-- Full Stack Development
-- Real-Time Applications
-- AI Chatbot Integration
-- Push Notifications
-- Payment Gateway Integration
-- Database Design
-- Software Architecture
+- Flutter Mobile Development  
+- iOS Development (Swift)  
+- Cross-Platform App Development  
+- Firebase Authentication & Firestore  
+- Supabase Integration  
+- REST API Development  
+- State Management (Bloc, Provider, Riverpod)  
+- Full Stack Web Development  
+- Real-Time Applications  
+- Payment Integration Systems  
+- AI-Powered Application Logic  
+- Scalable Backend Architecture  
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Winner of Bizztech Hackathon
-- 📱 Developed Multiple Flutter Applications
-- 🤖 Built AI Chatbot Solutions
-- 🔥 Experience with Firebase Ecosystem
-- 🌐 Developed Full Stack Web Applications
+- 🥇 Winner of Bizztech Hackathon  
+- 📱 Built multiple production-ready mobile apps  
+- 🌐 Developed full-stack applications using modern stacks  
+- ☁️ Experience with Firebase & Supabase ecosystems  
+- 🤖 Built intelligent automation-based systems  
 
 ---
 
@@ -164,22 +174,13 @@
 
 ---
 
-## 📚 Certifications
-
-- Flutter Development
-- Git & GitHub
-- Firebase Development
-- Mobile Application Development
-
----
-
 ## 🎯 2026 Goals
 
-- 🚀 Secure a Full Stack Developer Position
-- 📱 Publish Production Applications
-- 🤖 Build AI-Powered SaaS Products
-- 🌍 Contribute to Open Source
-- ☁️ Master Cloud Technologies
+- 🚀 Land a Full Stack / Flutter Developer role  
+- 📱 Publish production-level mobile applications  
+- ☁️ Master cloud-native development (Firebase + Supabase + AWS)  
+- 🤖 Build scalable AI-powered SaaS products  
+- 🌍 Contribute to open-source projects  
 
 ---
 
@@ -199,10 +200,4 @@
 
 ## ⚡ Fun Fact
 
-> I enjoy building mobile apps, AI-powered solutions, and startup-focused products that solve real-world problems.
-
----
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hameed-Ur-Rehman25&theme=tokyonight" />
-</p>
+> I enjoy building mobile-first products that solve real-world problems using Flutter, backend systems, and modern cloud technologies.
